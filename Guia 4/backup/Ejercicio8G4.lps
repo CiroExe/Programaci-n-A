@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Ejercicio8G4.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="39"/>
+        <CursorPos X="50" Y="57"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="compras.txt"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="11" Y="5"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="11">
+      <Position>
+        <Filename Value="Ejercicio8G4.lpr"/>
+        <Caret Line="98" Column="8" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="Ejercicio8G4.lpr"/>
+        <Caret Line="42" Column="41" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="Ejercicio8G4.lpr"/>
+        <Caret Line="66" Column="12" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="Ejercicio8G4.lpr"/>
+        <Caret Line="68" Column="15" TopLine="55"/>
+      </Position>
+      <Position>
+        <Filename Value="Ejercicio8G4.lpr"/>
+        <Caret Line="70" Column="43" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="Ejercicio8G4.lpr"/>
+        <Caret Line="76" Column="43" TopLine="62"/>
+      </Position>
+      <Position>
+        <Filename Value="Ejercicio8G4.lpr"/>
+        <Caret Line="82" Column="26" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="Ejercicio8G4.lpr"/>
+        <Caret Line="84" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="Ejercicio8G4.lpr"/>
+        <Caret Line="59" Column="2" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="compras.txt"/>
+        <Caret Line="5" Column="4"/>
+      </Position>
+      <Position>
+        <Filename Value="compras.txt"/>
+        <Caret Line="8" Column="2"/>
+      </Position>
+      <Position>
+        <Filename Value="Ejercicio8G4.lpr"/>
+        <Caret Line="93" Column="59" TopLine="74"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
